@@ -37,7 +37,7 @@ Partnered with a group of 4 members to design and implement a comprehensive key 
 Collaborated with a group of 5 members to design a healthcare prediction system using R and ML algorithms, achieving an
 85.88% efficiency rate through SVM and KSVM models, aimed at identifying factors influencing medical attention needs.
 
-### E-Commerce Fraud Detection Feb 2023 – May 2023
+### E-Commerce Fraud Detection 
 Developed and implemented a machine learning fraud detection system for e-commerce platforms using Python, achieving
 92% accuracy with algorithms like decision tree, SVM, random forest, and logistic regression.
 Conducted data analysis including summary statistics, visualization, and correlation matrices using Matplotlib, pandas, and
