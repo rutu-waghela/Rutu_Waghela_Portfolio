@@ -1,0 +1,5 @@
+# Rutu_Waghela_Portfolio
+Rutu Waghela portfolio
+The culmination of my journey at Syracuse University's School of Information Studies is on the horizon, with a Master's degree in Management Information Systems and Data Science expected in May 2024. Here, I've honed advanced data management, analytics, and visualization skills. My educational endeavors have been complemented by developing and maintaining robust data pipelines using Azure Databricks at Casey's, supporting our team's pursuit of data-driven insights.
+
+Certifications in cloud platforms like AWS and Snowflake reinforce my technical acumen, while projects leveraging Python, R, SQL, and Tableau showcase my capacity to translate complex data into actionable business intelligence. As a former Data Analyst at Avalon Global Research, I embraced statistical analysis to inform market research, underscoring my commitment to delivering value through data. My ambition is to contribute as a thought leader in the intersecting realms of data engineering and science.
