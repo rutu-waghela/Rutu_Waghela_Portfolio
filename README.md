@@ -45,6 +45,3 @@ seaborn, along with feature engineering and dimension reduction with PCA.
 Enhanced model precision by 6% (from 89% to 95%) and recall by 12% (from 82% to 94%) through hyperparameter
 optimization and cross-validation techniques, while achieving an AUC score of 0.92 for system validation.
 
-
-
-- [Data Science Blog](https://medium.com/@shawhin)
