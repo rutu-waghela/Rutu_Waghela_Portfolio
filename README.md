@@ -29,6 +29,7 @@ Implemented robust machine learning models including Random Forest Classifier, S
 
 ### Syracuse City Services
 Cited request patterns for the Syracuse services portal using Tableau, revealing the Northwest Quadrant as the highest recipient with 19.8k requests, focusing on 2 specific zip codes out of 8. Facilitated SLA breach analysis of around 50% for Garbage & Graffiti Agency, averaging 5 days to resolve or close tickets.
+https://github.com/rutu-waghela/Analyzing-Syracuse-City-Services/blob/4e265eb90b643dede907d40c44a7d16b9b65fd1d/README.md
 
 ### Key Tracking System
 Partnered with a group of 4 members to design and implement a comprehensive key tracking database and management system, reduced manual key tracking time by 78% using SQL, Power Apps & triggers. Improved accuracy in key transaction records, resulting in 81% fewer errors & faster transaction processing.
