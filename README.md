@@ -46,3 +46,6 @@ seaborn, along with feature engineering and dimension reduction with PCA.
 Enhanced model precision by 6% (from 89% to 95%) and recall by 12% (from 82% to 94%) through hyperparameter
 optimization and cross-validation techniques, while achieving an AUC score of 0.92 for system validation.
 
+### Audience Segmentation and Behavioral Analysis                                     				                                
+Developed comprehensive audience segments by analyzing demographic, psychographic, and behavioral data, resulting in a 25% increase in targeted marketing campaign effectiveness. 
+Utilized advanced analytics tools such as SQL, Python, and Power BI to process and visualize large datasets, providing actionable insights into consumer behavior and preferences. Implemented predictive modeling techniques to forecast customer lifetime value and churn rates, enabling proactive retention strategies and personalized marketing efforts.
